@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+
+
+# Rick and Morty Graphql with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img width="831" alt="image" src="https://user-images.githubusercontent.com/5531595/149022496-2b2afbad-79d8-4162-95ba-75d2f17e935d.png">
+
 
 ## Available Scripts
 
